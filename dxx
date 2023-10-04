@@ -1,6 +1,5 @@
 #自用
-DOMAIN-SUFFIX,baozicdn.com,DIRECT // Added for: s1.baozicdn.com:443
-DOMAIN,app-site-association.cdn-apple.com,国外应用 // Added for: app-site-association.cdn-apple.com:443
+
 DOMAIN,is1-ssl.mzstatic.com,国外应用 // Added for: is1-ssl.mzstatic.com:443
 DOMAIN,m.2345.com,DIRECT // Added for: m.2345.com:443
 DOMAIN,www.2345.com,DIRECT // Added for: www.2345.com:443
