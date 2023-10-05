@@ -1,6 +1,6 @@
 #自用
 
-DOMAIN,is1-ssl.mzstatic.com,国外应用 // Added for: is1-ssl.mzstatic.com:443
-DOMAIN,m.2345.com,DIRECT // Added for: m.2345.com:443
-DOMAIN,www.2345.com,DIRECT // Added for: www.2345.com:443
-IP-CIDR,114.114.114.114/32,DIRECT,no-resolve // Added for: http://114.114.114.114:90/login
+DOMAIN,is1-ssl.mzstatic.com
+DOMAIN,m.2345.com
+DOMAIN,www.2345.com
+IP-CIDR,114.114.114.114/32
